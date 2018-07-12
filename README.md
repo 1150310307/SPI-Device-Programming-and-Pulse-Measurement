@@ -1,4 +1,4 @@
-# SPI-Device-Programming-and-Pulse-Measurement-
+# SPI-Device-Programming-and-Pulse-Measurement
 Assignment 2   SPI Device Programming and Pulse Measurement (100 points)
 Exercise Objectives
 1.	To learn multi threaded applications in Linux environment.
